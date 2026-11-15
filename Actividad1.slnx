@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Actividad1/Expendedora.csproj" />
+  <Project Path="Expendedora.Pruebas/Expendedora.Pruebas.csproj" />
+</Solution>
